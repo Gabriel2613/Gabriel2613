@@ -23,7 +23,7 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 📊 Estatísticas
 
-![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2613)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Gabriel2613)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
