@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 🚀 Tecnologias e Ferramentas
 
-* **Linguagens:** JavaScript, HTML, CSS
+* **Linguagens:** JavaScript, HTML, CSS, C
 * **Ferramentas:** Git, VS Code
 * **Estudando no momento:** UI/UX, GIMP, desenvolvimento web
 
@@ -18,7 +18,8 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 📫 Como me encontrar
 
-* *(adicione aqui seu LinkedIn, e-mail ou outra rede social se quiser)*
+* *e-mail: gabrielppavani@gmail.com*
+* *instagram: https://www.instagram.com/gabriel.ppavani*
 
 ---
 
