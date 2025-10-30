@@ -23,7 +23,7 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 📊 Estatísticas
 
-* ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2613dev&layout=compact)
+* ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2613)
 
 ---
 
