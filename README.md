@@ -21,6 +21,10 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 * 📩*e-mail: gabrielppavani@gmail.com*
 * 📷*instagram: https://www.instagram.com/gabriel.ppavani*
 
+## 📊 Estatísticas
+
+* ![Linguagens mais usadas](https://github-readme-stats.vercel.app/api/top-langs/?username=gabrieldev&layout=compact)
+
 ---
 
 > “O único homem que está isento de erros é aquele que não arrisca acertar.” — Albert Einstein
