@@ -1,16 +1,25 @@
-## Hi there 👋
+# Olá, eu sou Gabriel 👋
 
-<!--
-**Gabriel2613/Gabriel2613** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## 💻 Sobre mim
 
-Here are some ideas to get you started:
+Estudante de Desenvolvimento de Software, interessado em criar soluções funcionais e aprender continuamente sobre tecnologias modernas para web e software.
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🚀 Tecnologias e Ferramentas
+
+* **Linguagens:** JavaScript, HTML, CSS
+* **Ferramentas:** Git, VS Code
+* **Estudando no momento:** UI/UX, GIMP, desenvolvimento web
+
+## 📚 O que você encontra aqui
+
+* Projetos de estudos
+* Exercícios de lógica de programação
+* Experimentos com design e interface
+
+## 📫 Como me encontrar
+
+* *(adicione aqui seu LinkedIn, e-mail ou outra rede social se quiser)*
+
+---
+
+> “O único homem que está isento de erros é aquele que não arrisca acertar.” — Albert Einstein
