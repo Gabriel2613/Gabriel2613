@@ -18,8 +18,8 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 📫 Como me encontrar
 
-* *e-mail: gabrielppavani@gmail.com*
-* *instagram: https://www.instagram.com/gabriel.ppavani*
+* 📩*e-mail: gabrielppavani@gmail.com*
+* 📷*instagram: https://www.instagram.com/gabriel.ppavani*
 
 ---
 
