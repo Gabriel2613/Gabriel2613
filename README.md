@@ -24,7 +24,3 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 ## 📊 Estatísticas
 
 [![most language](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2613&layout-vertical&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
-
----
-
-> “O único homem que está isento de erros é aquele que não arrisca acertar.” — Albert Einstein
