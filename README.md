@@ -6,14 +6,13 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 🚀 Tecnologias e Ferramentas
 
-* **Linguagens:** JavaScript, HTML, CSS, C
+* **Linguagens:** JavaScript, HTML, CSS, C++, Java, PHP
 * **Ferramentas:** Git, VS Code
-* **Estudando no momento:** UI/UX, GIMP, desenvolvimento web
+* **Estudando no momento:** UI/UX, GIMP, Desenvolvimento Web, Apps para Mobile
 
 ## 📚 O que você encontra aqui
 
 * Projetos de estudos
-* Exercícios de lógica de programação
 * Experimentos com design e interface
 
 ## 📫 Como me encontrar
