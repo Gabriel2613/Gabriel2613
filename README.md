@@ -6,7 +6,7 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 🚀 Tecnologias e Ferramentas
 
-* **Linguagens:** JavaScript, HTML, CSS, C++, Java, PHP
+* **Linguagens:** JavaScript, HTML, CSS, C++, Java, PHP, SQL
 * **Ferramentas:** Git, VS Code
 * **Estudando no momento:** UI/UX, GIMP, Desenvolvimento Web, Apps para Mobile
 
