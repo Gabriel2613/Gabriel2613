@@ -22,4 +22,4 @@ Estudante de Desenvolvimento de Software, interessado em criar soluções funcio
 
 ## 📊 Estatísticas
 
-[![most language](https://github-readme-stats.vercel.app/api/top-langs/?username=Gabriel2613&layout-vertical&theme=dark&hide_border=true)](https://github.com/anuraghazra/github-readme-stats)
+[![most language](https://github-readme-streak-stats.herokuapp.com?user=Gabriel2613&theme=tokyonight&hide_border=true&background=0d1117&ring=a78bfa&fire=a78bfa&currStreakLabel=a78bfa)
